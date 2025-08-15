@@ -33,7 +33,7 @@ public class Main {
     System.out.print("Enter your Subject 8 Grades: ");
 		int sub8 = i.nextInt();
 
-    average = (sub1 + sub2 + sub3 + sub4 + sub5 + sub6 + sub7 + sub8) / 8
+   int average = (sub1 + sub2 + sub3 + sub4 + sub5 + sub6 + sub7 + sub8) / 8;
     
 		System.out.println("Hi my name is " + name);
     System.out.println("My age is " + age);
